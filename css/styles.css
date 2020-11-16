@@ -1,4 +1,6 @@
 body {
-  background-color: #fff;
+  background-color: tomato;
   font-size: 18;
+  color: #fff;
+  font-weight: 700;
 }
